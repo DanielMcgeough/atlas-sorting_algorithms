@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * bubble sort - compares two ints and sorts them.
+ * bubble_sort - compares two ints and sorts them.
  * @array: array of ints
  * @size: number of elements.
  * Return: returns a void.
