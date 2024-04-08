@@ -1,5 +1,3 @@
-/**I can't attach my name to something I didn't have a hand in. This was beyond the pale. */
-3-quick_sort.c
 #include "sort.h"
 
 void swap_ints(int *a, int *b);
